@@ -1,0 +1,6 @@
+{
+  "name": "Fessy",
+  "description": "Anonymous Q&A web receiver for Fessy — iPhone-inspired pastel frosted glass messaging interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
